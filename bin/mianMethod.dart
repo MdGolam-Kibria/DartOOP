@@ -7,4 +7,4 @@ void main() {
   son.multiTwo(); //This method call from son By extending parent/father.
 }
 //method overloading is not possible in dart.
-//Dart doesn't support encapsulation. 
+//Dart doesn't support encapsulation.
